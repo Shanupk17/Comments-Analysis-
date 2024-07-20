@@ -6,7 +6,7 @@ It uses Sentimental analysi for this classifications.
 # The file format should be:
 
 project-directory:
- -static
+ \n-static
  ---background.jped
  ---styles.css
  -templates
