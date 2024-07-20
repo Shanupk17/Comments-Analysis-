@@ -3,7 +3,7 @@ This is a website that give no. of positive, neutral and negative comments in th
 
 It uses Sentimental analysi for this classifications.
 
-The file format should be:
+# The file format should be:
 
 project-directory:
  -static
